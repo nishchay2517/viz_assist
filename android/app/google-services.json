@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892965746757",
+    "project_id": "vis-assist",
+    "storage_bucket": "vis-assist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892965746757:android:5bd5fdd34e9ffe865b8b2c",
+        "android_client_info": {
+          "package_name": "com.example.image_speak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxOJ7hSI9HMLjMzQU2LYHbXverX0KP2-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
